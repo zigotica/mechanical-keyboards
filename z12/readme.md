@@ -1,7 +1,7 @@
 # z12
 
 ## Description
-The z12 is a split mechanical micropad with 6x MX/Choc v1&v2 switches, 4x 6x6mm momentary buttons, 2x EC11 rotary encoders and 1x 128x32 OLED display. It uses no diodes.
+The z12 is a mechanical micropad with 6x MX/Choc v1&v2 switches, 4x 6x6mm momentary buttons, 2x EC11 rotary encoders and 1x 128x32 OLED display. It uses no diodes.
 
 ## Main use
 This layout allows me to configure shortcuts and rotary encoder actions for several apps (i.e. sketch, terminal, browser, ...).
