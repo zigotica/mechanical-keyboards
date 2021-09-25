@@ -1,7 +1,7 @@
 # z34
 
 ## Description
-The z34 is a split mechanical keyboard with 34x Choc v1 switches, distributed in a "3x5 + 2 thumbs per hand" layout. It is heavily inspired by the Ferris (34 keys and no diodes), but created this one to be able to use a Pro Micro instead of AVR chips.
+The z34 is a split mechanical keyboard with 34x Choc v1 switches, distributed in a "3x5 + 2 thumbs per hand" layout. It is heavily inspired by the Ferris (34 keys and no diodes), but created this one to be able to use a Pro Micro instead of ARM chips.
 
 ## Images
 See high res pictures clicking the images on this gallery:
