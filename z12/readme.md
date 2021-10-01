@@ -17,6 +17,8 @@ See high res pictures clicking the images on this gallery:
 
 ![z12-board-back](./images/z12-board-back.jpg)
 
+## Firmware
+You can play around your desired keymap using [QMK online configurator](https://config.qmk.fm/#/z12/LAYOUT) or manually writing your changes to the keymap either in  your username folder or adding a folder to the [z12 official firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/z12).
 
 ## Build
 You can build your own pad using the gerber shared in this repo. Just zip the folder and send to your favourite online shop. I use [JLCPCB](https://jlcpcb.com/) and quality is really nice for the cost (and that black matte is gorgeous). No plate has been designed yet (misalignments are really visible in the images above, due to the fact I used 3 pin switches), but it is under development. 
