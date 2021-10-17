@@ -6,6 +6,8 @@ The z12 is a mechanical micropad with 6x MX/Choc v1&v2 switches, 4x 6x6mm moment
 ## Main use
 This layout allows me to configure shortcuts and rotary encoder actions for several apps (i.e. sketch, terminal, browser, ...).
 
+With the use of my [active-app-qmk-layer-updater](https://github.com/zigotica/active-app-qmk-layer-updater) script I can even change layers automatically when moving across apps in the operating system, no need to press a switch to change layer anymore. Go have a look.
+
 ## Images
 See high res pictures clicking the images on this gallery:
 
