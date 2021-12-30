@@ -19,3 +19,6 @@ See high res pictures clicking the images on this gallery:
 
 ## Build
 You can build your own keyboard using the gerber shared in this repo. Just zip the folder and send to your favourite online shop. I use [JLCPCB](https://jlcpcb.com/) and quality is really nice for the cost (and that black matte is gorgeous). You simply have to solder the Pro Micro and the switches. No plate has been designed yet, but using 5 pin switches makes it unnecessary. Reset button is optional (you can short the pins in the micro directly to flash the firmware).
+
+## Firmware
+You can play around your desired keymap using [QMK online configurator](https://config.qmk.fm/#/z34/LAYOUT) or manually writing your changes to the keymap either in  your username folder or adding a folder to the [z34 official firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/z34).
